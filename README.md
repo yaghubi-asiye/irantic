@@ -24,7 +24,6 @@ php artisan migrate --seed
 
 Step 4:
 ```
-php artisan jwt:secret
 
 php -S localhost:8000 -t public
 ```
